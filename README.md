@@ -1,4 +1,4 @@
-# ros_appliactions
+# ros_applications
 Drive omni wheel to a specific point in space
 Due to the difference in mechanical operation, the Omniwheel robots cannot be driven like normal robots.
 For this project, it was necessary for the robot to maintain the same orientation during the entire movement trajectory. 
